@@ -1,0 +1,16 @@
+after installing oracle express version
+
+In cmd,
+
+sqlplus / as sysdba
+
+alter user hr account unlock;
+alter user hr identified by hr123;
+
+connect hr/hr123;, connects to hr as user
+
+host cls clears the cmd and exit;
+
+to directly connect to hr after this 
+
+sqlplus hr/hr123
