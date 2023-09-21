@@ -1,0 +1,33 @@
+.row1{
+    background-color: #bdeab5;
+    padding: 10px 0px;
+    margin: 0.1%;
+    text-align: center;
+}
+.row2::after{
+    content: " ";
+    display: table;
+    clear: both;
+}
+.container2, .container3, .container4{
+    float: left;
+    width: 33.13%;
+    background-color: #bdeab5;
+    margin: 0.1%;
+    text-align: center;
+    padding: 10px 0px;
+}
+.row3::after{
+    content: " ";
+    display: table;
+    clear: both;
+}
+.container5, .container6{
+    float: left;
+    width: 49.8%;
+    background-color: #bdeab5;
+    margin: 0.1%;
+    text-align: center;
+    padding: 10px 0px;
+}
+

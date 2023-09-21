@@ -1,0 +1,31 @@
+<!-- Create a User registration form with necessary fields.  -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration_form</title>
+</head>
+<body>
+    <form action="/register" method="post">
+
+        <input type="text" name="first_name" placeholder="First name" style="margin: 5px;"> <br>
+        <input type="text" name="last_name" placeholder="Last name" style="margin: 5px;"> <br>
+        <input type="email" name="email" placeholder="Email address" style="margin: 5px;"> <br>
+        <input type="text" name="country" placeholder="Country" style="margin: 5px;"> <br>
+        <input type="text" name="zip_code" placeholder="Zip code" style="margin: 5px;"> <br>
+        <input type="tel" name="phone_number" placeholder="Phone number" style="margin: 5px;"> <br>
+        <input type="date" name="date_of_birth" placeholder="Date of birth" style="margin: 5px;"> <br>
+        <select name="gender" style="margin: 5px;">
+          <option value="male">Male</option>
+          <option value="female">Female</option> 
+          <option value="other">Other</option> 
+        </select> <br>
+        <input type="file" name="profile_picture" placeholder="Profile picture" style="margin: 5px;"> <br>
+      
+        <input type="submit" value="Register" style="margin: 5px;"> <br>
+      </form>
+    
+</body>
+</html>
