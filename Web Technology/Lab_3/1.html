@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form Validation</title>
+  </head>
+  <body>
+    <form action="" onsubmit="return formSubmit()">
+      <label for="username">Username:</label>
+      <input type="text" id="username" /><br /><br />
+
+      <label for="email">Email:</label>
+      <input type="text" id="email" /><br /><br />
+
+      <label for="phonenumber">Phone:</label>
+      <input type="text" id="phonenumber" /><br />
+      <br />
+
+      <label for="password">Password:</label>
+      <input type="password" id="password" /><br /><br />
+
+      <input type="submit" value="Register" />
+    </form>
+
+    <script>
+      function formSubmit() {
+        var username = document.getElementById("username").value;
+        var email = document.getElementById("email").value;
+        var phone = document.getElementById("phonenumber").value;
+        var password = document.getElementById("password").value;
+
+        if (
+          username === "" ||
+          email === "" ||
+          phone === "" ||
+          password === ""
+        ) {
+          alert("Please fill up all data");
+          return false;
+        }
+
+        var emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        if (!emailRegex.test(email)) {
+          alert("Invalid email format");
+          return false;
+        }
+
+        var phoneRegex = /^\d*$/;
+        if (!phoneRegex.test(phone)) {
+          alert("Invalid phone number format");
+          return false;
+        }
+
+        if (password.length < 8) {
+          alert("Password must be 8 characters long");
+          return false;
+        }
+
+        return true;
+      }
+    </script>
+  </body>
+</html>
