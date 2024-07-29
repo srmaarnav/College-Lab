@@ -1,0 +1,43 @@
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\bin\Debug\net8.0\appsettings.json
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\bin\Debug\net8.0\MVC Core.staticwebassets.runtime.json
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\bin\Debug\net8.0\MVC Core.exe
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\bin\Debug\net8.0\MVC Core.deps.json
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\bin\Debug\net8.0\MVC Core.runtimeconfig.json
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\bin\Debug\net8.0\MVC Core.dll
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\bin\Debug\net8.0\MVC Core.pdb
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\MVC Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\MVC Core.AssemblyInfoInputs.cache
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\MVC Core.AssemblyInfo.cs
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\MVC Core.csproj.CoreCompileInputs.cache
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\MVC Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\MVC Core.RazorAssemblyInfo.cache
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\MVC Core.RazorAssemblyInfo.cs
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\staticwebassets\msbuild.MVC Core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC Core.props
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC Core.props
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC Core.props
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\scopedcss\bundle\MVC Core.styles.css
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\scopedcss\projectbundle\MVC Core.bundle.scp.css
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\MVC Core.dll
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\refint\MVC Core.dll
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\MVC Core.pdb
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\MVC Core.genruntimeconfig.cache
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\ref\MVC Core.dll
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\MVC Core.csproj.AssemblyReference.cache
+C:\Users\sarna\Documents\.net\Learning C#\MVC Core\MVC Core\obj\Debug\net8.0\MVC Core.csproj.Up2Date

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\Unit 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72D175F5-8637-40C2-9369-4060115FC2B6}|Unit 3\\Unit 3.csproj|c:\\users\\sarna\\documents\\.net\\learning c#\\unit 3\\unit 3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72D175F5-8637-40C2-9369-4060115FC2B6}|Unit 3\\Unit 3.csproj|solutionrelative:unit 3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D175F5-8637-40C2-9369-4060115FC2B6}|Unit 3\\Unit 3.csproj|c:\\users\\sarna\\documents\\.net\\learning c#\\unit 3\\unit 3\\unit 3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72D175F5-8637-40C2-9369-4060115FC2B6}|Unit 3\\Unit 3.csproj|solutionrelative:unit 3\\unit 3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\Unit 3\\Unit 3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Unit 3\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\Unit 3\\Unit 3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Unit 3\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T14:16:05.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unit 3",
+              "DocumentMoniker": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\Unit 3\\Unit 3\\Unit 3.csproj",
+              "RelativeDocumentMoniker": "Unit 3\\Unit 3.csproj",
+              "ToolTip": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\Unit 3\\Unit 3\\Unit 3.csproj",
+              "RelativeToolTip": "Unit 3\\Unit 3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-09T14:08:40.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

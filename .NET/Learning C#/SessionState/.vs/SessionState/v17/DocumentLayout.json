@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\SessionState\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F08FA161-BDD8-4363-BEF9-9556B7301C0F}|SessionState\\SessionState.csproj|c:\\users\\sarna\\documents\\.net\\learning c#\\sessionstate\\sessionstate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08FA161-BDD8-4363-BEF9-9556B7301C0F}|SessionState\\SessionState.csproj|solutionrelative:sessionstate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08FA161-BDD8-4363-BEF9-9556B7301C0F}|SessionState\\SessionState.csproj|c:\\users\\sarna\\documents\\.net\\learning c#\\sessionstate\\sessionstate\\views\\home\\get.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F08FA161-BDD8-4363-BEF9-9556B7301C0F}|SessionState\\SessionState.csproj|solutionrelative:sessionstate\\views\\home\\get.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08FA161-BDD8-4363-BEF9-9556B7301C0F}|SessionState\\SessionState.csproj|c:\\users\\sarna\\documents\\.net\\learning c#\\sessionstate\\sessionstate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08FA161-BDD8-4363-BEF9-9556B7301C0F}|SessionState\\SessionState.csproj|solutionrelative:sessionstate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08FA161-BDD8-4363-BEF9-9556B7301C0F}|SessionState\\SessionState.csproj|c:\\users\\sarna\\documents\\.net\\learning c#\\sessionstate\\sessionstate\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08FA161-BDD8-4363-BEF9-9556B7301C0F}|SessionState\\SessionState.csproj|solutionrelative:sessionstate\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\SessionState\\SessionState\\Program.cs",
+              "RelativeDocumentMoniker": "SessionState\\Program.cs",
+              "ToolTip": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\SessionState\\SessionState\\Program.cs",
+              "RelativeToolTip": "SessionState\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:19:24.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Get.cshtml",
+              "DocumentMoniker": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\SessionState\\SessionState\\Views\\Home\\Get.cshtml",
+              "RelativeDocumentMoniker": "SessionState\\Views\\Home\\Get.cshtml",
+              "ToolTip": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\SessionState\\SessionState\\Views\\Home\\Get.cshtml",
+              "RelativeToolTip": "SessionState\\Views\\Home\\Get.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T10:18:05.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\SessionState\\SessionState\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SessionState\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\SessionState\\SessionState\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SessionState\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:14:14.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\SessionState\\SessionState\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SessionState\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\SessionState\\SessionState\\Models\\User.cs",
+              "RelativeToolTip": "SessionState\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:13:42.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

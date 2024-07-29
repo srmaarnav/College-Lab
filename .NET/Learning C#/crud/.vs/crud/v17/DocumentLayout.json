@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE529EAB-21F7-4FEC-85AD-F168D29D5101}|crud\\crud.csproj|c:\\users\\sarna\\documents\\.net\\learning c#\\crud\\crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE529EAB-21F7-4FEC-85AD-F168D29D5101}|crud\\crud.csproj|solutionrelative:crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE529EAB-21F7-4FEC-85AD-F168D29D5101}|crud\\crud.csproj|c:\\users\\sarna\\documents\\.net\\learning c#\\crud\\crud\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE529EAB-21F7-4FEC-85AD-F168D29D5101}|crud\\crud.csproj|solutionrelative:crud\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE529EAB-21F7-4FEC-85AD-F168D29D5101}|crud\\crud.csproj|c:\\users\\sarna\\documents\\.net\\learning c#\\crud\\crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE529EAB-21F7-4FEC-85AD-F168D29D5101}|crud\\crud.csproj|solutionrelative:crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE529EAB-21F7-4FEC-85AD-F168D29D5101}|crud\\crud.csproj|c:\\users\\sarna\\documents\\.net\\learning c#\\crud\\crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE529EAB-21F7-4FEC-85AD-F168D29D5101}|crud\\crud.csproj|solutionrelative:crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE529EAB-21F7-4FEC-85AD-F168D29D5101}|crud\\crud.csproj|c:\\users\\sarna\\documents\\.net\\learning c#\\crud\\crud\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE529EAB-21F7-4FEC-85AD-F168D29D5101}|crud\\crud.csproj|solutionrelative:crud\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE529EAB-21F7-4FEC-85AD-F168D29D5101}|crud\\crud.csproj|c:\\users\\sarna\\documents\\.net\\learning c#\\crud\\crud\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE529EAB-21F7-4FEC-85AD-F168D29D5101}|crud\\crud.csproj|solutionrelative:crud\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE529EAB-21F7-4FEC-85AD-F168D29D5101}|crud\\crud.csproj|c:\\users\\sarna\\documents\\.net\\learning c#\\crud\\crud\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE529EAB-21F7-4FEC-85AD-F168D29D5101}|crud\\crud.csproj|solutionrelative:crud\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE529EAB-21F7-4FEC-85AD-F168D29D5101}|crud\\crud.csproj|c:\\users\\sarna\\documents\\.net\\learning c#\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE529EAB-21F7-4FEC-85AD-F168D29D5101}|crud\\crud.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\crud\\crud\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "crud\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\crud\\crud\\Models\\Employee.cs",
+              "RelativeToolTip": "crud\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T03:06:24.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\crud\\crud\\Program.cs",
+              "RelativeDocumentMoniker": "crud\\Program.cs",
+              "ToolTip": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\crud\\crud\\Program.cs",
+              "RelativeToolTip": "crud\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:11:32.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\crud\\crud\\appsettings.json",
+              "RelativeDocumentMoniker": "crud\\appsettings.json",
+              "ToolTip": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\crud\\crud\\appsettings.json",
+              "RelativeToolTip": "crud\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T02:12:56.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\crud\\crud\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "crud\\Data\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\crud\\crud\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "crud\\Data\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:06:03.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\crud\\crud\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "crud\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\crud\\crud\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "crud\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAuwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:14:27.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\crud\\crud\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "crud\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\crud\\crud\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "crud\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswBgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T02:21:03.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\crud\\crud\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "crud\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\crud\\crud\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "crud\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T02:34:54.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\crud\\crud\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "crud\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\crud\\crud\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "crud\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T02:57:23.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

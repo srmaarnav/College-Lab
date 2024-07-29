@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\College\\6th Semester\\.Net Centric Computing\\Lab Assignment\\lab13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{782325F1-8813-47C0-BF7C-2CFE1799AD1C}|lab13\\lab13.csproj|d:\\college\\6th semester\\.net centric computing\\lab assignment\\lab13\\lab13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782325F1-8813-47C0-BF7C-2CFE1799AD1C}|lab13\\lab13.csproj|solutionrelative:lab13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782325F1-8813-47C0-BF7C-2CFE1799AD1C}|lab13\\lab13.csproj|d:\\college\\6th semester\\.net centric computing\\lab assignment\\lab13\\lab13\\views\\item\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{782325F1-8813-47C0-BF7C-2CFE1799AD1C}|lab13\\lab13.csproj|solutionrelative:lab13\\views\\item\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782325F1-8813-47C0-BF7C-2CFE1799AD1C}|lab13\\lab13.csproj|d:\\college\\6th semester\\.net centric computing\\lab assignment\\lab13\\lab13\\views\\item\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{782325F1-8813-47C0-BF7C-2CFE1799AD1C}|lab13\\lab13.csproj|solutionrelative:lab13\\views\\item\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782325F1-8813-47C0-BF7C-2CFE1799AD1C}|lab13\\lab13.csproj|d:\\college\\6th semester\\.net centric computing\\lab assignment\\lab13\\lab13\\views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{782325F1-8813-47C0-BF7C-2CFE1799AD1C}|lab13\\lab13.csproj|solutionrelative:lab13\\views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782325F1-8813-47C0-BF7C-2CFE1799AD1C}|lab13\\lab13.csproj|d:\\college\\6th semester\\.net centric computing\\lab assignment\\lab13\\lab13\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782325F1-8813-47C0-BF7C-2CFE1799AD1C}|lab13\\lab13.csproj|solutionrelative:lab13\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782325F1-8813-47C0-BF7C-2CFE1799AD1C}|lab13\\lab13.csproj|d:\\college\\6th semester\\.net centric computing\\lab assignment\\lab13\\lab13\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782325F1-8813-47C0-BF7C-2CFE1799AD1C}|lab13\\lab13.csproj|solutionrelative:lab13\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sarna\\AppData\\Local\\Temp\\0jwvasir..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sarna\\AppData\\Local\\Temp\\0jwvasir..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sarna\\AppData\\Local\\Temp\\0jwvasir..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\College\\6th Semester\\.Net Centric Computing\\Lab Assignment\\lab13\\lab13\\Program.cs",
+              "RelativeDocumentMoniker": "lab13\\Program.cs",
+              "ToolTip": "D:\\College\\6th Semester\\.Net Centric Computing\\Lab Assignment\\lab13\\lab13\\Program.cs",
+              "RelativeToolTip": "lab13\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:18:06.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\College\\6th Semester\\.Net Centric Computing\\Lab Assignment\\lab13\\lab13\\Views\\Item\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab13\\Views\\Item\\Index.cshtml",
+              "ToolTip": "D:\\College\\6th Semester\\.Net Centric Computing\\Lab Assignment\\lab13\\lab13\\Views\\Item\\Index.cshtml",
+              "RelativeToolTip": "lab13\\Views\\Item\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T09:16:57.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\College\\6th Semester\\.Net Centric Computing\\Lab Assignment\\lab13\\lab13\\Views\\Item\\Edit.cshtml",
+              "RelativeDocumentMoniker": "lab13\\Views\\Item\\Edit.cshtml",
+              "ToolTip": "D:\\College\\6th Semester\\.Net Centric Computing\\Lab Assignment\\lab13\\lab13\\Views\\Item\\Edit.cshtml",
+              "RelativeToolTip": "lab13\\Views\\Item\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T09:16:43.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\College\\6th Semester\\.Net Centric Computing\\Lab Assignment\\lab13\\lab13\\Views\\Item\\Create.cshtml",
+              "RelativeDocumentMoniker": "lab13\\Views\\Item\\Create.cshtml",
+              "ToolTip": "D:\\College\\6th Semester\\.Net Centric Computing\\Lab Assignment\\lab13\\lab13\\Views\\Item\\Create.cshtml",
+              "RelativeToolTip": "lab13\\Views\\Item\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T09:16:14.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\College\\6th Semester\\.Net Centric Computing\\Lab Assignment\\lab13\\lab13\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "lab13\\Models\\Item.cs",
+              "ToolTip": "D:\\College\\6th Semester\\.Net Centric Computing\\Lab Assignment\\lab13\\lab13\\Models\\Item.cs",
+              "RelativeToolTip": "lab13\\Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:02:02.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\College\\6th Semester\\.Net Centric Computing\\Lab Assignment\\lab13\\lab13\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "lab13\\Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\College\\6th Semester\\.Net Centric Computing\\Lab Assignment\\lab13\\lab13\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "lab13\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAkwGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:01:30.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\sarna\\AppData\\Local\\Temp\\0jwvasir..sql",
+              "ToolTip": "SQLQuery2.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-23T09:25:20.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

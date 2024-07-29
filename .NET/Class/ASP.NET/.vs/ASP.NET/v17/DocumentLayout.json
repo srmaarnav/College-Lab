@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarna\\Documents\\.net\\Class\\ASP.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD5CB11-A99C-4DE8-8BC8-87B775D9AD9D}|ASP.NET\\ASP.NET.csproj|C:\\Users\\sarna\\Documents\\.net\\Class\\ASP.NET\\asp.net\\loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0FD5CB11-A99C-4DE8-8BC8-87B775D9AD9D}|ASP.NET\\ASP.NET.csproj|solutionrelative:asp.net\\loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD5CB11-A99C-4DE8-8BC8-87B775D9AD9D}|ASP.NET\\ASP.NET.csproj|c:\\users\\sarna\\documents\\.net\\class\\asp.net\\asp.net\\loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD5CB11-A99C-4DE8-8BC8-87B775D9AD9D}|ASP.NET\\ASP.NET.csproj|solutionrelative:asp.net\\loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\sarna\\Documents\\.net\\Class\\ASP.NET\\ASP.NET\\LoginForm.aspx.cs",
+              "RelativeDocumentMoniker": "ASP.NET\\LoginForm.aspx.cs",
+              "ToolTip": "C:\\Users\\sarna\\Documents\\.net\\Class\\ASP.NET\\ASP.NET\\LoginForm.aspx.cs",
+              "RelativeToolTip": "ASP.NET\\LoginForm.aspx.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T06:57:56.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.aspx",
+              "DocumentMoniker": "C:\\Users\\sarna\\Documents\\.net\\Class\\ASP.NET\\ASP.NET\\LoginForm.aspx",
+              "RelativeDocumentMoniker": "ASP.NET\\LoginForm.aspx",
+              "ToolTip": "C:\\Users\\sarna\\Documents\\.net\\Class\\ASP.NET\\ASP.NET\\LoginForm.aspx",
+              "RelativeToolTip": "ASP.NET\\LoginForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-15T06:29:16.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

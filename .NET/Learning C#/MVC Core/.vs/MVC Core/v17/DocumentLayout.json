@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\MVC Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{365B106C-DE53-4E24-9946-20E92870D397}|MVC Core\\MVC Core.csproj|c:\\users\\sarna\\documents\\.net\\learning c#\\mvc core\\mvc core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365B106C-DE53-4E24-9946-20E92870D397}|MVC Core\\MVC Core.csproj|solutionrelative:mvc core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365B106C-DE53-4E24-9946-20E92870D397}|MVC Core\\MVC Core.csproj|c:\\users\\sarna\\documents\\.net\\learning c#\\mvc core\\mvc core\\services\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365B106C-DE53-4E24-9946-20E92870D397}|MVC Core\\MVC Core.csproj|solutionrelative:mvc core\\services\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365B106C-DE53-4E24-9946-20E92870D397}|MVC Core\\MVC Core.csproj|c:\\users\\sarna\\documents\\.net\\learning c#\\mvc core\\mvc core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365B106C-DE53-4E24-9946-20E92870D397}|MVC Core\\MVC Core.csproj|solutionrelative:mvc core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365B106C-DE53-4E24-9946-20E92870D397}|MVC Core\\MVC Core.csproj|c:\\users\\sarna\\documents\\.net\\learning c#\\mvc core\\mvc core\\models\\frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365B106C-DE53-4E24-9946-20E92870D397}|MVC Core\\MVC Core.csproj|solutionrelative:mvc core\\models\\frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365B106C-DE53-4E24-9946-20E92870D397}|MVC Core\\MVC Core.csproj|c:\\users\\sarna\\documents\\.net\\learning c#\\mvc core\\mvc core\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{365B106C-DE53-4E24-9946-20E92870D397}|MVC Core\\MVC Core.csproj|solutionrelative:mvc core\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Temp.cs",
+              "DocumentMoniker": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\MVC Core\\MVC Core\\Services\\Temp.cs",
+              "RelativeDocumentMoniker": "MVC Core\\Services\\Temp.cs",
+              "ToolTip": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\MVC Core\\MVC Core\\Services\\Temp.cs",
+              "RelativeToolTip": "MVC Core\\Services\\Temp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:17:02.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\MVC Core\\MVC Core\\Program.cs",
+              "RelativeDocumentMoniker": "MVC Core\\Program.cs",
+              "ToolTip": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\MVC Core\\MVC Core\\Program.cs",
+              "RelativeToolTip": "MVC Core\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:55:25.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\MVC Core\\MVC Core\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MVC Core\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\MVC Core\\MVC Core\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MVC Core\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T07:31:13.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frm.cs",
+              "DocumentMoniker": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\MVC Core\\MVC Core\\Models\\Frm.cs",
+              "RelativeDocumentMoniker": "MVC Core\\Models\\Frm.cs",
+              "ToolTip": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\MVC Core\\MVC Core\\Models\\Frm.cs",
+              "RelativeToolTip": "MVC Core\\Models\\Frm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:30:40.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\MVC Core\\MVC Core\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC Core\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sarna\\Documents\\.net\\Learning C#\\MVC Core\\MVC Core\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC Core\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:10:42.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
