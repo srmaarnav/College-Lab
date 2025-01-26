@@ -1,0 +1,13 @@
+total 48
+drwxrwxr-x  7 arnavs arnavs 4096 Dec  4 20:56 College
+drwxr-xr-x  2 arnavs arnavs 4096 Oct  4 21:39 Desktop
+drwxr-xr-x 11 arnavs arnavs 4096 Jan 15 10:49 Documents
+drwxr-xr-x  5 arnavs arnavs 4096 Jan 15 15:50 Downloads
+drwxr-xr-x  2 arnavs arnavs 4096 Aug  6 17:48 Music
+drwxr-xr-x  4 arnavs arnavs 4096 Jan 15 12:26 Pictures
+drwxrwxr-x  8 arnavs arnavs 4096 Jan  5 18:23 Projects
+drwxr-xr-x  2 arnavs arnavs 4096 Aug  6 17:48 Public
+drwx------  8 arnavs arnavs 4096 Dec  1 18:51 snap
+drwxr-xr-x  3 arnavs arnavs 4096 Dec 12 03:13 teleport
+drwxr-xr-x  2 arnavs arnavs 4096 Aug  6 17:48 Templates
+drwxr-xr-x  3 arnavs arnavs 4096 Oct 15 12:14 Videos

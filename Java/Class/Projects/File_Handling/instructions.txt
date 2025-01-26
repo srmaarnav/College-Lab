@@ -1,0 +1,10 @@
+Develop a student management System
+
+features:
+    1. Insert
+    2. Display
+    3. Update
+    4. Delete
+    5. Grade of student
+
+Use file system to perform all functionality and console only app.
